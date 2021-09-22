@@ -1,0 +1,27 @@
+div
+{
+    background-color: rgb(11, 87, 138);
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img
+{
+    margin-left: 395px;
+    width: 600px;
+}
+table
+{
+    background-color: salmon;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-family: cursive;
+    border:rgb(0, 19, 128) ;
+}
+body{
+    background-image: url(http://www.todopaisajes.com/800x600/playa-al-atardecer.jpg);
+}
